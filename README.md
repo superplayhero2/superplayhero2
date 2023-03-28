@@ -2,9 +2,9 @@ Hello
 
 I'm a dumb programmer who forgets how to do anything in an instant and i also play friday night funkin alot and program in it
 
-Good at lua
+Good at lua and Haxe
 
-Starting out at haxeflixel
+Currently Learning C#
 
 How do i make a function in python again?
 
